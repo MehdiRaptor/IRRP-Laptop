@@ -1,5 +1,5 @@
 # IRRP-Laptop
-![](https://cdn.discordapp.com/attachments/965216545108267018/973654889236398080/mzl.schksakv.png)
+![](https://cdn.discordapp.com/avatars/974582414200406036/bca17e2594ed69005cac31c861e56905.webp)
 
 # Info
 
