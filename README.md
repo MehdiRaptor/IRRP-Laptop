@@ -9,11 +9,11 @@
 
 ## Features
 
-⚪ Fully Open Source
-⚪ You can order different guns in different amount
-⚪ It has whitelist jobs and gangs
-⚪ Sending Info to Log and ...
-⚪ Supports ESX Framework
+- Fully Open Source
+- You can order different guns in different amount
+- It has whitelist jobs and gangs
+- Sending Info to Log and ...
+- Supports ESX Framework
 
 ## Installation
 
